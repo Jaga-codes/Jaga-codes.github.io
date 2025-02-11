@@ -1,3 +1,3 @@
 <h1 align="center">
-    Valentine's Wish
+    Valentine's Day
 </h1>
